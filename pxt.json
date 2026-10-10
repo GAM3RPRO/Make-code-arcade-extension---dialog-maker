@@ -1,0 +1,12 @@
+{
+    "name": "dialogue-maker",
+    "version": "0.1.0",
+    "description": "Dialogue Maker for MakeCode Arcade",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.ts"
+    ],
+    "preferredEditor": "tsprj"
+}
